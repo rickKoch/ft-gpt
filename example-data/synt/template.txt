@@ -1,0 +1,4 @@
+Imagine a complete and detailed product ad that will improve branding and
+performance of a product. Create a product ad with semantic impact of
+{{ .semantics }} and cognitive impact of {{ .cognitives }} that will maximize
+the metrics of {{ .goals }}.

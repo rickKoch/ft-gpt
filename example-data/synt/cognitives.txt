@@ -1,0 +1,3 @@
+Intra-Image context & surprise, Difficulty to understand, Scene complexity
+Saliency of each element, Emotions, Product & logo
+Ad saliency in context, Pacing, Simple message
